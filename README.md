@@ -2,9 +2,10 @@
 
 Data and code for a study that divides India's police-recorded suicide deaths by occupation (NCRB, *Accidental Deaths & Suicides in India*, Table 2.7) by workforce denominators from nine rounds of the Periodic Labour Force Survey (PLFS).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24143424.svg)](https://doi.org/10.5281/zenodo.24143424)
 [![reproduce-and-verify](https://github.com/hssling/india-occupation-suicide-rates/actions/workflows/verify.yml/badge.svg)](https://github.com/hssling/india-occupation-suicide-rates/actions/workflows/verify.yml)
 
-**Status.** The accompanying manuscript has been submitted for publication. Until it is published, please cite this archive: Siddalingaiah H S. *Occupation-specific suicide rates in India, 2018–2024: police records and labour-force denominators (data and code)* (v1.0.0). Zenodo; 2026. (DOI to be added)
+**Status.** The accompanying manuscript has been submitted for publication. Until it is published, please cite this archive: Siddalingaiah H S. *Occupation-specific suicide rates in India, 2018–2024: police records and labour-force denominators (data and code)* (v1.0.0). Zenodo; 2026. https://doi.org/10.5281/zenodo.24143424
 
 ## Main findings
 
