@@ -40,7 +40,7 @@ python verify.py                             # recomputes every number reported 
 | `data/adsi_profession_state_year.csv` | ADSI Table 2.7, 2018–2024: state × year × sex × 25 profession categories |
 | `data/plfs_denominators.csv` | PLFS aggregates: weighted persons and unweighted sample counts by round × state × sex × group, for the primary and two alternative crosswalks |
 | `data/plfs_checks.csv` | PLFS worker shares by status, reproducing the published annual-report figures |
-| `data/state_population.csv` | Technical Group (2019) population projections, Table 11 (official report: https://nhm.gov.in/New_Updates_2018/Report_Population_Projection_2019.pdf) |
+| `data/state_population.csv` | Technical Group (2020; report cover dated November 2019) population projections, Table 11 (official report: https://nhm.gov.in/New_Updates_2018/Report_Population_Projection_2019.pdf) |
 | `data/panel_state_year_sex_occupation.csv` | Analysis panel: 35 constant-geography units |
 | `src/crosswalk.py` | The ADSI → PLFS mappings |
 | `outputs/` | Rates, decompositions, state results, model outputs, figures |

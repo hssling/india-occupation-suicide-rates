@@ -15,7 +15,7 @@ import numpy as np, pandas as pd
 
 HERE = pathlib.Path(__file__).resolve().parent
 D = HERE.parent / "data"
-POP = D / "state_population.csv"   # Technical Group (November 2019) projections, Table 11 (copied from the snakebite project data folder)
+POP = D / "state_population.csv"   # Technical Group projections (released July 2020; cover dated November 2019), Table 11 (copied from the snakebite project data folder)
 
 UNITS = {  # unit: (ADSI names, PLFS codes, population-file name)
     "Andhra Pradesh": (["ANDHRA PRADESH"], ["28"], "Andhra Pradesh"),
