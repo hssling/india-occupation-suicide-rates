@@ -1,0 +1,44 @@
+{
+ "diagnostics": {
+  "mapping": "casual_plus_own_account_nonagri",
+  "seconds": 511,
+  "divergences": 18,
+  "max_rhat": 1.0175138711929321,
+  "min_ess_bulk": 432.0122788374683,
+  "cells": 4900
+ },
+ "decomposition": {
+  "mapping": "casual_plus_own_account_nonagri",
+  "share_2018": [
+   0.20679821865470194,
+   0.18313727657209525,
+   0.23254342489786034
+  ],
+  "share_2024": [
+   0.2738694262802336,
+   0.24440204694558526,
+   0.3067356635059707
+  ],
+  "rate_component": [
+   0.17144500591766834,
+   -0.013392925133147122,
+   0.36991183776963577
+  ],
+  "composition_component": [
+   0.11211654543876648,
+   0.08372069261968136,
+   0.13498913459479808
+  ],
+  "rate_share_of_change_pct": [
+   60.46567387569567,
+   -10.137528044587352,
+   79.23922443926534
+  ],
+  "P_rate_component_positive": 0.96525,
+  "trend_daily_wage_vs_salaried_per_3y_male": [
+   1.0487257242202759,
+   0.8678329542279244,
+   1.2613048553466797
+  ]
+ }
+}

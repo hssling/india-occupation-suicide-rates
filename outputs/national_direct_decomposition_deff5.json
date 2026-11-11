@@ -1,0 +1,320 @@
+{
+ "primary": {
+  "total|daily_wage": {
+   "share_2018": 0.2239619345005762,
+   "share_2024": 0.3098292851535496,
+   "rate_component": [
+    0.2453,
+    0.1899,
+    0.3011
+   ],
+   "composition_component": [
+    0.0793,
+    0.0235,
+    0.1346
+   ],
+   "rate_share_of_change_pct": [
+    75.6,
+    58.5,
+    92.8
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.364,
+    1.268,
+    1.461
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  },
+  "total|daily_wage_plus_other": {
+   "share_2018": 0.38577004572320733,
+   "share_2024": 0.42801152940349396,
+   "rate_component": [
+    0.1339,
+    0.1032,
+    0.1655
+   ],
+   "composition_component": [
+    -0.03,
+    -0.0616,
+    0.0007
+   ],
+   "rate_share_of_change_pct": [
+    128.9,
+    99.4,
+    159.3
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.219,
+    1.158,
+    1.287
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  },
+  "male|daily_wage": {
+   "share_2018": 0.2886531906116334,
+   "share_2024": 0.38510470390357837,
+   "rate_component": [
+    0.1781,
+    0.1179,
+    0.2361
+   ],
+   "composition_component": [
+    0.1102,
+    0.0522,
+    0.1704
+   ],
+   "rate_share_of_change_pct": [
+    61.8,
+    40.9,
+    81.9
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.313,
+    1.214,
+    1.415
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  },
+  "male|daily_wage_plus_other": {
+   "share_2018": 0.4648370497427101,
+   "share_2024": 0.5022598825020527,
+   "rate_component": [
+    0.0575,
+    0.0208,
+    0.0951
+   ],
+   "composition_component": [
+    0.02,
+    -0.0177,
+    0.0567
+   ],
+   "rate_share_of_change_pct": [
+    74.2,
+    26.8,
+    122.8
+   ],
+   "P_rate_component_positive": 0.998,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.164,
+    1.094,
+    1.242
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  }
+ },
+ "casual_all": {
+  "total|daily_wage": {
+   "share_2018": 0.2580573212891714,
+   "share_2024": 0.3444702215660773,
+   "rate_component": [
+    0.3312,
+    0.2887,
+    0.3725
+   ],
+   "composition_component": [
+    -0.0424,
+    -0.0837,
+    0.0002
+   ],
+   "rate_share_of_change_pct": [
+    114.7,
+    99.9,
+    129.0
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.485,
+    1.397,
+    1.578
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  },
+  "total|daily_wage_plus_other": {
+   "share_2018": 0.4198654325118025,
+   "share_2024": 0.46265246581602165,
+   "rate_component": [
+    0.161,
+    0.1358,
+    0.1871
+   ],
+   "composition_component": [
+    -0.0639,
+    -0.09,
+    -0.0387
+   ],
+   "rate_share_of_change_pct": [
+    165.9,
+    139.9,
+    192.8
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.253,
+    1.195,
+    1.319
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  },
+  "male|daily_wage": {
+   "share_2018": 0.3328484269492151,
+   "share_2024": 0.4277674592862438,
+   "rate_component": [
+    0.2932,
+    0.2475,
+    0.342
+   ],
+   "composition_component": [
+    -0.0423,
+    -0.0911,
+    0.0034
+   ],
+   "rate_share_of_change_pct": [
+    116.9,
+    98.7,
+    136.3
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.472,
+    1.375,
+    1.583
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  },
+  "male|daily_wage_plus_other": {
+   "share_2018": 0.5090322860802918,
+   "share_2024": 0.5449226378847181,
+   "rate_component": [
+    0.115,
+    0.0821,
+    0.1455
+   ],
+   "composition_component": [
+    -0.0468,
+    -0.0774,
+    -0.0139
+   ],
+   "rate_share_of_change_pct": [
+    168.7,
+    120.5,
+    213.6
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.232,
+    1.16,
+    1.309
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  }
+ },
+ "casual_plus_own_account_nonagri": {
+  "total|daily_wage": {
+   "share_2018": 0.2239619345005762,
+   "share_2024": 0.3098292851535496,
+   "rate_component": [
+    0.2143,
+    0.1805,
+    0.2514
+   ],
+   "composition_component": [
+    0.1102,
+    0.0732,
+    0.144
+   ],
+   "rate_share_of_change_pct": [
+    66.0,
+    55.6,
+    77.5
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.32,
+    1.251,
+    1.398
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  },
+  "total|daily_wage_plus_other": {
+   "share_2018": 0.38577004572320733,
+   "share_2024": 0.42801152940349396,
+   "rate_component": [
+    0.0868,
+    0.0631,
+    0.1113
+   ],
+   "composition_component": [
+    0.0171,
+    -0.0074,
+    0.0408
+   ],
+   "rate_share_of_change_pct": [
+    83.6,
+    60.7,
+    107.1
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.163,
+    1.107,
+    1.222
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  },
+  "male|daily_wage": {
+   "share_2018": 0.2886531906116334,
+   "share_2024": 0.38510470390357837,
+   "rate_component": [
+    0.19,
+    0.154,
+    0.2303
+   ],
+   "composition_component": [
+    0.0983,
+    0.058,
+    0.1343
+   ],
+   "rate_share_of_change_pct": [
+    65.9,
+    53.4,
+    79.9
+   ],
+   "P_rate_component_positive": 1.0,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.329,
+    1.248,
+    1.417
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  },
+  "male|daily_wage_plus_other": {
+   "share_2018": 0.4648370497427101,
+   "share_2024": 0.5022598825020527,
+   "rate_component": [
+    0.0345,
+    0.0073,
+    0.0636
+   ],
+   "composition_component": [
+    0.043,
+    0.0139,
+    0.0701
+   ],
+   "rate_share_of_change_pct": [
+    44.5,
+    9.4,
+    82.1
+   ],
+   "P_rate_component_positive": 0.9945,
+   "ratio_of_RR_vs_salaried_2024_over_2018": [
+    1.138,
+    1.073,
+    1.206
+   ],
+   "P_RR_vs_salaried_increased": 1.0
+  }
+ }
+}

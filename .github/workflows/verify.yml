@@ -1,0 +1,27 @@
+name: reproduce-and-verify
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: sudo apt-get install -y fonts-liberation && fc-cache -f
+      - name: Rebuild the panel from the aggregate tables
+        run: python src/04_build_panel.py
+      - name: National rates with denominator uncertainty (design effect 2 and 5)
+        run: |
+          python src/07_national_direct.py
+          DEFF=5 python src/07_national_direct.py
+      - name: State and within-state analyses
+        run: |
+          python src/08_state_direct.py
+          python src/09_within_state_change.py
+      - name: Figures
+        run: python src/10_figures.py
+      - name: Verify every reported number
+        run: python verify.py
