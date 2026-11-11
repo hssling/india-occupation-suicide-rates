@@ -1,6 +1,6 @@
 # Who the dead were in life: occupation-specific suicide rates in India, 2018–2024
 
-Data and code for a study that divides India's police-recorded suicide deaths by occupation (NCRB, *Accidental Deaths & Suicides in India*, Table 2.7) by workforce denominators from nine rounds of the Periodic Labour Force Survey (PLFS).
+Data and code for a study that divides India's police-recorded suicide deaths by occupation (NCRB, *Accidental Deaths and Suicides in India*, Table 2.7) by workforce denominators from nine rounds of the Periodic Labour Force Survey (PLFS).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24143424.svg)](https://doi.org/10.5281/zenodo.24143424)
 [![reproduce-and-verify](https://github.com/hssling/india-occupation-suicide-rates/actions/workflows/verify.yml/badge.svg)](https://github.com/hssling/india-occupation-suicide-rates/actions/workflows/verify.yml)
@@ -40,7 +40,7 @@ python verify.py                             # recomputes every number reported 
 | `data/adsi_profession_state_year.csv` | ADSI Table 2.7, 2018–2024: state × year × sex × 25 profession categories |
 | `data/plfs_denominators.csv` | PLFS aggregates: weighted persons and unweighted sample counts by round × state × sex × group, for the primary and two alternative crosswalks |
 | `data/plfs_checks.csv` | PLFS worker shares by status, reproducing the published annual-report figures |
-| `data/state_population.csv` | Technical Group (2020) population projections |
+| `data/state_population.csv` | Technical Group (2019) population projections, Table 11 (official report: https://nhm.gov.in/New_Updates_2018/Report_Population_Projection_2019.pdf) |
 | `data/panel_state_year_sex_occupation.csv` | Analysis panel: 35 constant-geography units |
 | `src/crosswalk.py` | The ADSI → PLFS mappings |
 | `outputs/` | Rates, decompositions, state results, model outputs, figures |
